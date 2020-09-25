@@ -1,0 +1,1 @@
+java -jar ../config-server-jackpot/target/config-server-jackpot-0.0.1-SNAPSHOT.jar
